@@ -1,4 +1,4 @@
-token 8622b1159d604b96d205c341a62315960e9a7130
+
 
 # Lumen PHP Framework
 
